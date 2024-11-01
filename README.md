@@ -45,13 +45,13 @@ Configure Prometheus to monitor the application by specifying which metrics to s
 Deploy Prometheus as a container within the Kubernetes cluster to enable scraping metrics from the application.
 
 ### Answer
-The prometheus artifact can be found in the prometheus directory and the promethous running pod screenshots can be found in the screenshot directory
+The prometheus artifact can be found in the prometheus directory and the prometheus running pod screenshots can be found in the screenshot directory
 
 ### Visualize Metrics
 Visualize the Prometheus metrics through a simple dashboard
 
 ### Answer
-The metrics from prometheus was use to build a dashboard using grafana, the grafana artifact can be found in the grafana director and the screenshot of the grafana runnning pod can be found in the screenshot artifact
+The metrics from prometheus was use to build a dashboard using grafana, the grafana artifact can be found in the grafana directory and the screenshot of the grafana runnning pod can be found in the screenshot artifact
 
 ## 4. Integrate with ELK Stack
 
