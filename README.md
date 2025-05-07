@@ -79,7 +79,7 @@ By following these steps, you'll effectively Dockerize your application, deploy 
 
 - Code quality, structure and organization
 - Docker & Kubernetes best practices
-- Application metrics, collect and visualize
+- Application metrics, collect and visualize..
 - Logs Managment, collect and visualize logs
 
 ## Submission
